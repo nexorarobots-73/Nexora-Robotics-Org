@@ -12,18 +12,6 @@ export function VisionSection() {
           </p>
         </div>
         <div className="flex justify-center">
-          <Card className="overflow-hidden shadow-2xl shadow-primary/10">
-            <CardContent className="p-0">
-              <Image
-                src="https://placehold.co/600x400.png"
-                alt="Founder's Vision"
-                width={600}
-                height={400}
-                className="object-cover aspect-video transition-transform duration-500 hover:scale-105"
-                data-ai-hint="founder vision"
-              />
-            </CardContent>
-          </Card>
         </div>
       </div>
     </section>
